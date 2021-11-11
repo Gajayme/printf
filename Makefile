@@ -38,7 +38,7 @@ include $(wildcard $(D_FILES))
 
 
 clean :
-	$(RM) $(O_FILES) $(D_FILES)
+	$(RM) $(O_FILES) $(D_FILES) a.out
 
 fclean : clean
 	$(RM) $(NAME)
