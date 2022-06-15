@@ -11,7 +11,8 @@ It handles : **``%c %s %p %d %u %x %X``** specifiers but **``DOES NOT HANDLE: FL
 ---
 ### How to use
 
-First things first you need to make the libftprintf.a. And after this you can link lib to you project and use **``int ft_printf(const char *format, ...)``** like usual printf.
+First things first you need to make the libftprintf.a. 
+And after this you can link lib to your project and use **``int ft_printf(const char *format, ...)``** like usual printf.
 
 All of makefile rules:
 
