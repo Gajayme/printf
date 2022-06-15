@@ -17,7 +17,7 @@ All of makefile rules:
 
 | Rule | Function |
 | - | - |
-| ``make`` | Generete game without enemies |
+| ``make`` | Create lib |
 | ``make all`` | Same as just make |
 | ``make clean`` | Deletes all object files |
 | ``make fclean`` | Deletes the object files and the _libftprintf.a_ file |
