@@ -1,4 +1,4 @@
-# printf  a.k.a  ft_printf (school 21 project)
+# printf (school 21 project)
 
 Just library with simple replica of the printf C function.
 
