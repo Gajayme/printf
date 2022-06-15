@@ -10,7 +10,8 @@ It handles : **``%c %s %p %d %u %x %X``** specifiers and **``DOES NOT HANDLE: FL
 
 ### How to use
 
-First things first you need to make the libftprintf.a
+First things first you need to make the libftprintf.a.
+
 All of makefile rules:
 
 | Rule | Function |
