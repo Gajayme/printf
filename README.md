@@ -2,14 +2,15 @@
 
 Just library with simple replica of the printf C function.
 
-### How it works
 ---
+### How it works
+
 it works just as usual printf (https://www.tutorialspoint.com/c_standard_library/c_function_printf.htm).
 It handles : **``%c %s %p %d %u %x %X``** specifiers and **``DOES NOT HANDLE: FLAGS WIDTH PRECISION AND LENGTH``**
 
-
-### How to use
 ---
+### How to use
+
 First things first you need to make the libftprintf.a. And after this you can link lib to you project and use **``int ft_printf(const char *format, ...)``** like usual printf.
 
 All of makefile rules:
@@ -22,8 +23,9 @@ All of makefile rules:
 | ``make fclean`` | Deletes the object files and the _libftprintf.a_ file |
 | ``make re`` | makes ``fclean`` and ``make`` again |
 
-### Contacts
 ---
+### Contacts
+
 Feel free to clone this project, check the code or contact me if you have any question or suggestions:
 
 * 21 Login:   **gajayme**
